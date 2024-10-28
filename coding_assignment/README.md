@@ -1,14 +1,14 @@
 # Synsense interveiw: coding assignment
 
 
----coding assignment
+---coding assignment<br>
 
-Your project structure looks like this:
-    |___ src
-    |   |___ __init__.py
-    |   |___ user_shape_manipulation.py
-    |___ tests
-    |   |___ __init__.py
-    |   |___ test_user_shape_manipulation.py
-    |___ main.py
+Your project structure looks like this:<br>
+    |___ src<br>
+    |   |___ __init__.py<br>
+    |   |___ user_shape_manipulation.py<br>
+    |___ tests<br>
+    |   |___ __init__.py<br>
+    |   |___ test_user_shape_manipulation.py<br>
+    |___ main.py<br>
     
