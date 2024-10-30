@@ -1,4 +1,4 @@
-""" Pytest codes for testing user_shape_manipulation """
+""" Pytest codes for testing user_shape_manipulation functionality """
 
 from src.user_shape_manipulation import Point, Circle, Rectangle
 

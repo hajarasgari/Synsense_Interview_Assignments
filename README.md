@@ -1,2 +1,2 @@
 # Synsense_Interview_Assignments
-Includes both coding and design assignments
+This repo contains answers to both coding and design assignments for the Synsense interview.

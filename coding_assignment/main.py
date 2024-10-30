@@ -1,4 +1,4 @@
-""" main user for shape manupulation"""
+""" main user for the shape manupulation"""
 
 from src.user_shape_manipulation import Point, Circle, Rectangle
 

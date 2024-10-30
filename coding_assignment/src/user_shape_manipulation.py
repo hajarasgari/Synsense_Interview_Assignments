@@ -44,6 +44,7 @@ class Shape:
         other: The other shape to check for overlap.
         """
         raise NotImplementedError("This method should be implemented by subclasses.")
+
 class Circle(Shape):
     """Represents a circle in 2D space, defined by its center point and radius."""
 
