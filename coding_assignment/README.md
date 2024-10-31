@@ -42,6 +42,7 @@ coding_assignment<br>
     |___ main.py<br>
     
 #### Installation
+##### Linux
 ```
 virtualenv env_coding
 source env_coding/bin/activate
